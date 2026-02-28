@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning model training.<br>
+🌱 I’m currently learning LLM training.<br>
 
 
 ## 🌐 Socials:
