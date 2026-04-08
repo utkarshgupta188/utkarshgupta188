@@ -11,5 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=utkarshgupta188&theme=dark&hide_border=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=utkarshgupta188&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=utkarshgupta188&label=Profile%20views&color=0e75b6&style=flat)
 
