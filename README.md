@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 Still Learning !!!<br>
+
+🌱 B.Tech AIML student passionate about software development, AI/ML, automation, and building useful products.
+Still Learning !!!<br>
 
 
 ## 🌐 Socials:
