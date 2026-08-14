@@ -20,4 +20,4 @@ Still Learning !!!<br>
 
 If you find this project useful, consider supporting development and future improvements.
 
-[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/utkarshgupta)
+[![Buy Me a Chai](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Chai-yellow?style=for-the-badge)](https://www.buymeacoffee.com/utkarshgupta18)
